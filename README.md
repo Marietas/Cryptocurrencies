@@ -29,4 +29,4 @@ The 2D graph has been created to shows the relationship between total coin suppl
 
 ## Summary
 
-I have processeded 532 cryptocurrencies running the K-means=4 to find their trends. Each group's characteristics was examined in order to assess its success and future value to the investment bank's clients. Clusters related to the amount of available coins vs the total number of mined coins can be seen in the 2d scatter plot. Different clusters are easily seen in the 3D scatter graph, which is distributed using three principal component variables.
+I have processed 532 cryptocurrencies running the K-means=4 to find their trends. Each group's characteristics was examined in order to assess its success and future value to the investment bank's clients. Clusters related to the amount of available coins vs the total number of mined coins can be seen in the 2d scatter plot. Different clusters are easily seen in the 3D scatter graph, which is distributed using three principal component variables.
