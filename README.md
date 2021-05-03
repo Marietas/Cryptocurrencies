@@ -15,6 +15,8 @@ After preprocessing and cleaning the data the total of 532 different cryptocurre
 
 ### Elbow Curve
 
-We don't know what would be the output of the analysis so we are using unsupervised machine learning to identify clusters of the cryptocurrencies.
-We produced the elbow curve below using the K-Means method iterating on k values from 1 to 10.
+Based on the data the Clustering Cryptocurrencies were obtained running the K-Means being K=4. This value represents the best value to running the unsupervised machine learning and identify the clusters of the cryptocurrencies. The following graph represent the output of this analysis.
+
+![image](https://user-images.githubusercontent.com/76540704/116832911-993ee200-ab84-11eb-97c0-c5c73c78f46a.png)
+
 
